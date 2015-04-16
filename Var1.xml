@@ -56,7 +56,13 @@
                               </block>
                             </value>
                             <next>
-                              <block type="movement_stutter" id="452"></block>
+                              <block type="movement_leftmotor" id="463" inline="true">
+                                <value name="MOVLEFT">
+                                  <block type="math_number" id="491">
+                                    <field name="NUM">3</field>
+                                  </block>
+                                </value>
+                              </block>
                             </next>
                           </block>
                         </next>
