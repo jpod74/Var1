@@ -55,21 +55,6 @@
                                 </value>
                               </block>
                             </value>
-                            <next>
-                              <block type="movement_right" id="504">
-                                <next>
-                                  <block type="movement_left" id="514">
-                                    <next>
-                                      <block type="movement_reverse" id="524">
-                                        <next>
-                                          <block type="movement_stutter" id="534"></block>
-                                        </next>
-                                      </block>
-                                    </next>
-                                  </block>
-                                </next>
-                              </block>
-                            </next>
                           </block>
                         </next>
                       </block>
