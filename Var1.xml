@@ -55,6 +55,9 @@
                                 </value>
                               </block>
                             </value>
+                            <next>
+                              <block type="movement_stutter" id="452"></block>
+                            </next>
                           </block>
                         </next>
                       </block>
